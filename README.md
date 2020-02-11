@@ -1,0 +1,1 @@
+https://github.com/nikita-kalechits/rsschool-cv/blob/gh-pages/cv.md
