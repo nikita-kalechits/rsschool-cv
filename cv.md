@@ -1,0 +1,55 @@
+### Resume
+# **Kalechyts Nikita**
+
+*Contact information:*   
+
+* Telephone number  +375336014752 
+* E-mail  kooler-bart@mail.ru
+
+
+## Skills
+
+* HTML
+* CSS
+* Bootstrap
+* Git
+* Tools
+  * WebStorm
+  * Photoshop
+  * CorelDraw 
+  * Avocode
+
+## Code example:
+
+```javascript
+var mdate = new Date();
+document.write(mdate.getFullYear());
+```
+
+## Experience 
+
+Travel agency website: [anabta](http://anabta.by/)
+
+## Education
+
+**University, faculty:** | BSU, Faculty of Mechanics and Mathematics *(full time)*
+-------------------- | --------------------------------------------------------------
+Period | 2010-2015
+Specialty in diploma: |	Mechanics, scientific and industrial activity. *Qualification:* Mechanic. Major - applied mathematics. 
+
+**University, faculty:** | BSU, Magistracy of Mechanics and Mathematics *(full time)*
+-------------------- | --------------------------------------------------------------------
+Period | 2015-2016
+Specialty in diploma: |	Mechanics. Master Degree in Physics and Mathematics.
+
+###Special trainings (courses):
+
+* [Introducing to HTML, Learn CSS](https://www.codecademy.com/profiles/Nikita_Kalechits) "Codecademy". 2020.
+* Website development with a usage of HTML, CSS and JavaScript. [IT-Academy](https://www.it-academy.by/)
+* Software testing. [Belhard](https://belhard.academy/)
+
+## Knowledge of foreign languages:
+
+English - **A2**. German - **A2**. **Conversational** Italian. 
+
+
