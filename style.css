@@ -1,6 +1,16 @@
 ﻿body {
     width: 1024px;
     padding: 2px;
+    margin: auto;
+    background-color: aliceblue;
+}
+header {
+  font-size:18px;
+  text-align: center;
+  background-color: aqua;
+}
+time {
+  color: grey;
 }
 .Resume {
   font-family: "Arial Black", serif;
@@ -12,7 +22,7 @@
   font-family:'Open Sans', sans-serif;
   font-size:15px;
 }
-h1, h2, h3 {
+h1, h2 {
   text-align: left;
 }
 p {
@@ -22,6 +32,9 @@ p {
     padding-bottom: 3px;
     font-size: 15px;
     text-align: left;
+  }
+  .code {
+    font-size: 13px;
   }
 .photo {
     text-align:left;
@@ -35,7 +48,7 @@ ul {
     text-align: left;
     font-family:'Open Sans', sans-serif;
   }
-  #footer {
+  footer {
       background-color:#00BFFF;
       color:#fff;
       padding:20px 50px 20px 50px;
